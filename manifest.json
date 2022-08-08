@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.1",
+	"id": "obsidian-quotation-marker",
+	"name": "Quotation Marker",
+	"version": "0.0.1",
 	"minAppVersion": "0.12.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
+	"description": "A plugin that adds a unique attribute to certain texts under certain rules (e.g. text in quotes) so that it can be styled later with CSS in the Reading View.",
+	"author": "Ruyang Zheng",
+	"authorUrl": "...",
 	"isDesktopOnly": false
 }

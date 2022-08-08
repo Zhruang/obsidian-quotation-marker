@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
-	"version": "1.0.1",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"name": "obsidian-quotation-marker",
+	"version": "0.0.1",
+	"description": "A plugin that adds a unique attribute to certain texts under certain rules (e.g. text in quotes) so that it can be styled later with CSS in the Reading View.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
